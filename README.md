@@ -1,4 +1,15 @@
-### Hi there 👋
+# 안녕!
+
+# About me.
+
+I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:, and, of course, a bit of coding :computer:.
+
+- 🔭 I’m currently working on my thesis.
+- 🌱 I’m currently learning python and php, besides math.
+- 💬 Ask me about differential equations, group theory. (ik just math for now).
+- 📫 How to reach me: send an e-mail to celepharn@hotmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like birds :bird:
 
 <!--
 **celepharn/celepharn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
