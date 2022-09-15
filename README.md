@@ -1,6 +1,6 @@
 # 안녕!
 
-<p> About me. <img src="drawing.jpg" alt="drawing" width="20"/> </p>
+<p> About me. <img src="drawing.jpg" alt="drawing" width="100"/> </p>
 
 I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:, and, of course, a bit of coding, thanks GNU/Linux :penguin:.
 
