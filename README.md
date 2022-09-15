@@ -11,6 +11,7 @@ I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like birds :bird:
 
+![image](cat.gif)
 <!--
 **celepharn/celepharn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
