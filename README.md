@@ -1,13 +1,9 @@
 # 안녕!
 
 <div align="left">
-  <img src="cat.gif" align="right" width="150">
+  <img src="cat.gif" align="right" width="100">
   <p>I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:, and, of course, a bit of coding, thanks GNU/Linux :penguin:.
 </div>
-
-<p> About me. <img src="drawing.jpg" alt="drawing" width="100"/> </p>
-
-I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:, and, of course, a bit of coding, thanks GNU/Linux :penguin:.
 
 - 🔭 I’m currently working on my thesis.
 - 🌱 I’m currently learning python and php, besides math.
@@ -16,9 +12,6 @@ I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like birds :bird:
 
-<img src="cat.gif" alt="drawing" width="200"/>
-
-![image](cat.gif)
 <!--
 **celepharn/celepharn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
