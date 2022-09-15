@@ -1,5 +1,10 @@
 # 안녕!
 
+<div align="left">
+  <img src="cat.gif" align="right" width="150">
+  <p>I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:, and, of course, a bit of coding, thanks GNU/Linux :penguin:.
+</div>
+
 <p> About me. <img src="drawing.jpg" alt="drawing" width="100"/> </p>
 
 I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:, and, of course, a bit of coding, thanks GNU/Linux :penguin:.
