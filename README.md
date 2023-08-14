@@ -9,7 +9,7 @@
 ## 🤔 About me.
 <div align="left">
   <p>
-    I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:, and, of course, a bit of programming, thanks GNU/Linux :penguin:.
+    I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:, and, of course, programming, thanks GNU/Linux :penguin:.
   </p>
 </div>
 <ul>
