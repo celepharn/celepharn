@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="greet3.png" />
+  <img src="greet.png" />
 </p>
 
 <!--- <p align="center"; style=font-size=20px>
