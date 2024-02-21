@@ -9,12 +9,12 @@
 ## 🤔 About me.
 <div align="left">
   <p>
-    I'm a math :coffee: student from Mexico who enjoys playing flute, guitar :notes:, and, of course, programming, thanks GNU/Linux :penguin:.
+    I'm a Mathematician :coffee: and Musician from Mexico, I main flute, and do guitar as a secondary instrument :notes:. Also I have a passion for programming, introduced to it thanks to GNU/Linux :penguin:.
   </p>
 </div>
 <ul>
-<li>🔭 Working on my thesis on the hypergeometric differential equation.</li>
-<li>🌱 Currently learning Python to get into Data Analysis, C++ for Linux stuff, and CSS to make stuff pretty, besides math.</li>
+<li>🔭 My thesis subject is on the hypergeometric differential equation.</li>
+<li>🌱 Expanding constantly on Python to get better at Data Analysis, C++ for Linux stuff, and CSS to make stuff pretty, besides math.</li>
 <li>💻 Linux enthusiast with interest in UI/UX; Rofi and EWW themes incoming.</li>
 <li>🐧 Feel free to check out my <a href="https://github.com/celepharn/Linux-dotfiles">i3, hyprland and Qtile configs</a>.</li>
 </ul>
